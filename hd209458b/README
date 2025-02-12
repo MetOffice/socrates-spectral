@@ -1,0 +1,9 @@
+These spectral files are used for the fiducial hot Jupiter, HD 209458b, with equilibrium chemistry.
+
+The naming convention is:
+ - 't5e-3': desired tolerance
+ - '1116': temperature (K)
+ - 'ntv': no TiO & VO
+ - 'wtv': with TiO & VO
+
+Reference: D. S. Amundsen et al., ‘The UK Met Office global circulation model with a sophisticated radiation scheme applied to the hot Jupiter HD 209458b’, Astronomy & Astrophysics, vol. 595, p. A36, Nov. 2016, doi: 10.1051/0004-6361/201629183. 

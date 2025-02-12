@@ -1,0 +1,9 @@
+These spectral files are used for the Comparing Atmospheric Models of Extrasolar Mini-Neptunes Building and Envisioning Retrievals and Transits (CAMEMBERT) intercomparison (DOI: 10.3847/PSJ/ac9dfe).
+
+The files were created by Duncan Christie (MPIA).
+
+The naming convention:
+ - '32': the number of bands
+ - 'dc': Duncan Christie
+ - 'k218': K2-18b
+ - '100x': 100 times solar metallicity
