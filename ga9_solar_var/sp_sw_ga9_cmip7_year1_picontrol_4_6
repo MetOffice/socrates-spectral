@@ -1,0 +1,14 @@
+Number of times in look-up table = 1
+Number of times for periodic repetition = 1
+Number of Rayleigh coefficients given = 12
+Year  Month  Day(of month)  Seconds(since midnight)  TSI(Wm-2 at 1 AU)
+Fraction of solar flux in each sub-band.
+Rayleigh coefficient in the first 12 sub-bands.
+*BEGIN: spectral variability data
+     1     1     1     0     1.361616699E+03
+ 4.250626365E-04 6.882867940E-04 9.535269643E-04 2.806374965E-03 5.933920281E-03
+ 9.144091129E-03 5.964406559E-02 1.466375718E-01 2.363546233E-01 3.198478874E-01
+ 1.792602338E-01 3.830435541E-02
+ 5.409835085E-04 3.808443793E-04 2.532436026E-04 1.838808792E-04 1.318525892E-04
+ 1.006690856E-04 5.495926514E-05 2.146636747E-05 7.475217588E-06 1.642717503E-06
+ 1.781746453E-07 1.080625807E-08
