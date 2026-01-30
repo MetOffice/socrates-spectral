@@ -1,11 +1,28 @@
 The following files were created with the examples/spectral_var/run_cmip7
 script in the main Socrates repository, using data version 4.6 of the
-CMIP7 solar forcing data from https://www.solarisheppa.kit.edu/75.php:
-
-sp_sw_ga9_cmip7_picontrol_4_6
-sp_sw_ga9_cmip7_ref_day_4_6
-sp_sw_ga9_cmip7_ref_mon_4_6
+CMIP7 solar forcing data from https://www.solarisheppa.kit.edu/75.php.
 
 These are spectral variability files compatible with the ga9 spectral files
-in data/spectra/ga9 in the main Socrates repository. The daily and monthly
-resolution files contain historical data until December 31, 2023.
+in data/spectra/ga9 in the main Socrates repository.
+
+sp_sw_ga9_cmip7_picontrol_4_6 :
+  CMIP7 PI control mean solar spectrum for runs starting in 1850 or later
+
+sp_sw_ga9_cmip7_year1_picontrol_4_6 :
+  CMIP7 PI control mean solar spectrum for runs starting in year 1 or later
+
+sp_sw_ga9_cmip7_ref_day_4_6 :
+  CMIP7 daily resolution historical solar spectra
+  1850-1-1 to 2023-12-31
+
+sp_sw_ga9_cmip7_ref_mon_4_6 :
+  CMIP7 monthly resolution historical solar spectra
+  1850-1 to 2023-12
+
+sp_sw_ga9_cmip7_scenario_day_4_6 :
+  CMIP7 daily resolution historical & future scenario solar spectra
+  1850-1-1 to 2299-12-31
+
+sp_sw_ga9_cmip7_scenario_mon_4_6 :
+  CMIP7 monthly resolution historical & future scenario solar spectra
+  1850-1 to 2299-12
