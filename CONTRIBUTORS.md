@@ -4,3 +4,4 @@
 | ----------- | --------- | ----------- | ---- |
 | james-bruten-mo | James Bruten | Met Office | 2025-12-09 |
 | mo-jmanners | James Manners | Met Office | 2026-01-30 |
+| yaswant | Yaswant Pradhan | Met Office | 2026-07-17 |
